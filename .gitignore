@@ -1,0 +1,19 @@
+# Terraform directories
+.terraform/
+
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# Terraform lock info (old versions)
+*.lock.info
+
+# Crash logs
+crash.log
+
+# OS / Editor junk (optional but recommended)
+.DS_Store
+.vscode/
+.idea/
