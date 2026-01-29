@@ -7,7 +7,7 @@ terraform.tfstate.backup
 *.tfstate
 *.tfstate.backup
 
-# Terraform lock info (old versions)
+# Terraform lock info (old versions)***
 *.lock.info
 
 # Crash logs
@@ -17,3 +17,5 @@ crash.log
 .DS_Store
 .vscode/
 .idea/
+
+#added vpc
